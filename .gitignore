@@ -1,2 +1,4 @@
 .venv/
-.output-test/
+output-test/
+__pycache__/
+iterm2-themes/*
